@@ -1,8 +1,12 @@
 # DT-MIDI-UNO-Hardware-PCB
 Electronic Design for Project DT MIDI UNO
+
 Contents:
+
 /PCB - PCB design files anc schematic
+
 License:
+
 The designs are licensed under the GPL-3.0 license - Permissive. See the LICENSE file for details.
 
 The designs are provided as-is, and the 203 Electronics are not responsible for any damage or injury that may be caused by the use of these designs.
